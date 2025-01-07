@@ -205,7 +205,7 @@ información de prueba
 |---|------|--------|
 |1  |Prueba|        |
 |2  |      |Prueba  |
-|3  |Prueba|Prueba  |
+|3  |Prueba|        |
 
 
 -----------------------------------------
