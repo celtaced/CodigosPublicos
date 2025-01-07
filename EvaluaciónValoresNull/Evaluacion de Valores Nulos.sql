@@ -46,6 +46,8 @@ En resumen, evaluar el porcentaje de valores nulos es una tarea esencial para ga
 los datos en una base de datos. Al identificar y comprender los patrones de valores nulos, se pueden tomar medidas para 
 mejorar la calidad de los datos, optimizar las consultas y garantizar que los análisis sean precisos y confiables.
 
+Para la generación de este script se hace uso de MySQL versión 8.2
+
 -----------------------------------------
 */
 
